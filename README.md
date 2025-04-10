@@ -1,6 +1,2 @@
 # learning-git-and-GitHub
-git
-<hr>
-and
-<hr>
-github
+git<hr>and<hr>github
